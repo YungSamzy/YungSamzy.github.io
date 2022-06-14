@@ -1,2 +1,1 @@
-# yungsamzy.github.io
-My Personal Website
+Personal Website
