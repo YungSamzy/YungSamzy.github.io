@@ -1,0 +1,8 @@
+How does this work?
+The website looks through a leaked database to see if your chegg answer was leaked.
+
+What leaked database?
+A shady website bought a Chegg subscription and was reselling answers, an anonymous user on BreachedForums leaked the database, it contains around 10,000 leaked questions and answers. This website simply looks though it for you.
+
+Are you hosting the leaked database?
+NO! The database is linked from a thirdparty that we have no affiliation with.
